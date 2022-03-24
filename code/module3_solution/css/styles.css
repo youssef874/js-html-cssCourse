@@ -1,0 +1,25 @@
+#nav-list a{
+    text-align: center;
+}
+
+nav .container{
+    background-color: darkgray;
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+
+}
+
+#text{
+    background-color: aquamarine;
+    height: 1000px;
+    margin: 20px auto 15px ;
+}
+
+@media(max-width:768px){
+    #collapsable-nav{
+        background-color: white;
+    }
+}
